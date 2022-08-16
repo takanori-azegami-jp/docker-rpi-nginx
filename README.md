@@ -34,4 +34,4 @@ $ docker-compose down --rmi all --volumes --remove-orphans
 
 ## 参考リンク
 - [Docker による nginx の導入と基本設定](https://blog1.mammb.com/entry/2020/09/01/000000)
--  [nginxの初期の設定ファイルを読み解いてみよう](https://www.y-techmemo.work/entry/2018/05/16/182700)
+- [nginxの初期の設定ファイルを読み解いてみよう](https://www.y-techmemo.work/entry/2018/05/16/182700)
